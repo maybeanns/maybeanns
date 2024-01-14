@@ -5,9 +5,7 @@
 
 - 🔭 I’m doing freelancing as a **UX Designer**
 
-- 🌱 I’m currently working on my **Dart, JS, Python**
-
-- 🤝 I do like ethical hacking through **Kali Linux**
+- 🌱 I’m currently working on **Flutter**
 
 - 📝 I regularly write articles on [https://medium.com/@khananns24](https://medium.com/@khananns24)
 
