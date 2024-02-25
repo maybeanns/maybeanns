@@ -5,7 +5,7 @@
 
 - 🔭 I’m doing freelancing as a **UX Designer**
 
-- 🌱 I’m currently working on **Flutter**
+- 🌱 I’m currently working on **Python**
 
 - 📝 I regularly write articles on [https://medium.com/@khananns24](https://medium.com/@khananns24)
 
